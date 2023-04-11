@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(204, 205, 212);
+}
+
+
+h1{
+    text-align: center;
+    font-size: 300%;
+}
+
+h2{
+    text-align: center;
+    font-size: 200%;
+    
+}
+
+table {
+    text-align: justify;
+    border: 2px solid darkgrey;
+    width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(176, 233, 250);
+}
+
+thead {
+    background-color: rgb(62, 226, 226);
+}
+
+
+
+tr {
+    border-color: darkgrey;
+    padding: 10;
+}
+
+th{
+    display: table-cell;
+}
+
+td{
+    border-top: 1px solid darkgrey
+}
